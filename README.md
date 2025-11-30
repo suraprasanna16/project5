@@ -1,2 +1,2 @@
-# project5
+# NUMBER GUESS
 about number guessing using python
